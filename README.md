@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-  <img src="https://i.ibb.co/WPJC1RP/zyad-basic-file.png" alt="Logo" width="300"/> <img src="https://i.ibb.co/KwGh0x9/ZYAD-S-AI-EYE-free-file.png" alt="logo2" width="300"/>
+  <img src="https://i.ibb.co/WPJC1RP/zyad-basic-file.png" alt="Logo" width="250"/> <img src="https://i.ibb.co/KwGh0x9/ZYAD-S-AI-EYE-free-file.png" alt="logo2" width="250"/>
 </div>
 
 
