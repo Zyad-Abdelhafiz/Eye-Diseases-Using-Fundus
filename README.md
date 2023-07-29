@@ -4,7 +4,7 @@
 
 <h1 align="center">Eye Diseases Using Fundus</h1>
 <p align="center">
- <img src="https://i.ibb.co/WPJC1RP/zyad-basic-file.png" alt="Logo" width="250"/> <img src="https://i.ibb.co/KwGh0x9/ZYAD-S-AI-EYE-free-file.png" alt="logo2" width="250"/>
+ <img src="https://i.ibb.co/KwGh0x9/ZYAD-S-AI-EYE-free-file.png" alt="logo2" width="300"/>
     <p align="center">   
 The Project has done by using an organized ophthalmic database of 5,000 individuals containing age, color fundus images of the left and right eyes, and diagnostic keywords from doctors is called Ocular Disease Intelligent Recognition (ODIR). 
     </p>
